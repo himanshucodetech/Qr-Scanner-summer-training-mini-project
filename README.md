@@ -1,1 +1,1 @@
-# new-project QrScanner
+# QrScanner
